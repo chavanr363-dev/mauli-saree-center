@@ -7,16 +7,18 @@
    international format, WITHOUT "+", spaces, or dashes.
    Example for an Indian number 98765 43210 → "919876543210"
 */
-const WHATSAPP_NUMBER = "YOUR_NUMBER_HERE";
+const WHATSAPP_NUMBER = "9819108041";
 
 /* ✏️ EDIT HERE #2 — Phone number for the Call Now button.
    Use the format tel: expects, e.g. "+919876543210" */
-const PHONE_NUMBER = "YOUR_NUMBER_HERE";
+const PHONE_NUMBER = "9819108041";
 
 /* ✏️ EDIT HERE #4 — Google Maps "share" link for the Google Maps button
    (Maps → Share → Copy link). This is separate from the embed iframe
    in index.html, which needs the "Embed a map" URL instead. */
-const GOOGLE_MAPS_LINK = "https://maps.google.com/?q=YOUR_SHOP_LOCATION_HERE";
+const GOOGLE_MAPS_LINK = "Shop no 4, Shevati aasha apartment Deriwali TQ, Dist, Panvel, Deriwali, Maharashtra 410221";
+
+
 
 (function () {
   "use strict";
